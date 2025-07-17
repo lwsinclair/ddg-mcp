@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/misanthropic-ai-ddg-mcp-badge.png)](https://mseep.ai/app/misanthropic-ai-ddg-mcp)
+
 # ddg-mcp MCP server
 
 DuckDuckGo search API MCP - A server that provides DuckDuckGo search capabilities through the Model Context Protocol.
